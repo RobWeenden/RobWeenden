@@ -21,12 +21,14 @@
 ## :sunglasses: Connect with Me 
 
 <a href="https://www.linkedin.com/in/robsonweenden/">
-  <img aling="center" alt="Robson Weenden" height="40" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:80%;"></a><a href="https://www.facebook.com/robson.weenden">
-  <img aling="center" alt="Robson Weenden" height="40" width="90" src="https://github.com/RobWeenden/RobWeenden/blob/main/img/facebook-plain.svg" style="max-width:80%;">
-</a><a href="https://www.instagram.com/rob_weenden/">
-  <img aling="center" alt="Robson Weenden" height="40" width="90" src="https://github.com/RobWeenden/RobWeenden/blob/main/img/instagram.svg" style="max-width:100%;">
+<img aling="center" alt="Robson Weenden" height="40" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" style="max-width:100%;">
 </a>
-
+<a href="https://www.facebook.com/robson.weenden">
+<img aling="center" alt="Robson Weenden" height="40" width="90" src="https://github.com/RobWeenden/RobWeenden/blob/main/img/facebook-plain.svg" style="max-width:100%;">
+</a>
+<a href="https://www.instagram.com/rob_weenden/">
+<img aling="center" alt="Robson Weenden" height="40" width="90" src="https://github.com/RobWeenden/RobWeenden/blob/main/img/instagram.svg" style="max-width:100%;">
+</a>
 <!--
 **RobWeenden/RobWeenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
