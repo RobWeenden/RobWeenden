@@ -1,9 +1,9 @@
 
 ![Robson Weenden profile](https://github.com/RobWeenden/RobWeenden/blob/main/img/capa_github.png)
 
-### Hey 👋
+# Hey 👋
 
-# :see_no_evil: About :speak_no_evil: me :hear_no_evil:
+## About me :hear_no_evil:
 ### &nbsp;&nbsp;&nbsp;Hello I am Robson Weenden, I am a programming student, I am always looking for new discoveries in the area. I love to study and research and learn about new technologies and solutions for everyday life. 
 ### &nbsp;&nbsp;&nbsp;I want to act as a Java specialist, well, as well as musician and chess player in vague times, I seek to improve my skills and knowledge daily.
 ### &nbsp;&nbsp;&nbsp;In this site you can follow what I have done and developed through the program, feel free to contribute here.
@@ -19,6 +19,10 @@
 ##### :dart: XTHML 1.0 - Ians S. Graham
 ##### :dart: Logica com Java - Francisco Calaça
 
+
+
+<!--
+
 ## :sunglasses: Connect with Me 
 
 <a href="https://www.linkedin.com/in/robsonweenden/">
@@ -30,7 +34,6 @@
 <a href="https://www.instagram.com/rob_weenden/">
 <img aling="center" alt="Robson Weenden" height="40" width="90" src="https://github.com/RobWeenden/RobWeenden/blob/main/img/instagram.svg" style="max-width:100%;">
 </a>
-<!--
 **RobWeenden/RobWeenden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
