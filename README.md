@@ -15,10 +15,11 @@
 ##### :dart: Logica com Java - Francisco Calaça
 
 ##  :computer: My Skills 
-<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/java-original-wordmark.svg" height="60" width="60"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/css3-plain-wordmark.svg" height="50" width="50"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/html5-plain-wordmark.svg" height="50" width="50">
+<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/java-original-wordmark.svg" height="60" width="60"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/css3-plain-wordmark.svg" height="50" width="50"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/javascript-plain.svg" width="50" height="50"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/html5-plain-wordmark.svg" height="50" width="50">
 <img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/mysql-plain-wordmark.svg" height="80" width="80">
 <img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/git-original.svg" height="50" width="50">
 <img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/postgresql-plain-wordmark.svg" width="50" height="50">
+
 
 
 
