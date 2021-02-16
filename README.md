@@ -9,15 +9,17 @@
 ### &nbsp;&nbsp;&nbsp;In this site you can follow what I have done and developed through the program, feel free to contribute here.
 
 ###### *"No one has ever won a game by giving up"* author: GM James Mason
-##  :computer: My Skills 
-<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/java-original-wordmark.svg" height="80" width="80"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/css3-plain-wordmark.svg" height="70" width="70"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/html5-plain-wordmark.svg" height="70" width="70">
-<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/mysql-plain-wordmark.svg" height="80" width="90">
-<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/git-original.svg" height="60" width="70">
-<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/postgresql-plain-wordmark.svg" width="70">
 
 ## :books: Books
 ##### :dart: XTHML 1.0 - Ians S. Graham
 ##### :dart: Logica com Java - Francisco Calaça
+
+##  :computer: My Skills 
+<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/java-original-wordmark.svg" height="60" width="60"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/css3-plain-wordmark.svg" height="50" width="50"><img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/html5-plain-wordmark.svg" height="50" width="50">
+<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/mysql-plain-wordmark.svg" height="80" width="80">
+<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/git-original.svg" height="50" width="50">
+<img src="https://github.com/RobWeenden/RobWeenden/blob/main/img/postgresql-plain-wordmark.svg" width="50" height="50">
+
 
 
 
