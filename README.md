@@ -7,6 +7,8 @@
 <div>
   <a href="https://www.linkedin.com/in/robsonweenden/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://t.me/rob_silva"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+  <a href="mailto:aulasdemusica01@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 </div>
 
 ###### *"No one has ever won a game by giving up"* author: GM James Mason
