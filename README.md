@@ -1,12 +1,10 @@
 
-![Robson Weenden profile](https://github.com/RobWeenden/RobWeenden/blob/main/img/capa_github.png)
-
 # Hey 👋
 
 ## About me :hear_no_evil:
-### &nbsp;&nbsp;&nbsp;Hello I am Robson Weenden, I am a programming student, I am always looking for new discoveries in the area. I love to study and research and learn about new technologies and solutions for everyday life. 
-### &nbsp;&nbsp;&nbsp;I want to act as a Java specialist, well, as well as musician and chess player in vague times, I seek to improve my skills and knowledge daily.
-### &nbsp;&nbsp;&nbsp;In this site you can follow what I have done and developed through the program, feel free to contribute here.
+##### &nbsp;&nbsp;&nbsp;Hello I am Robson Weenden, I am a programming student, I am always looking for new discoveries in the area. I love to study and research and learn about new technologies and solutions for everyday life. 
+##### &nbsp;&nbsp;&nbsp;I want to act as a Java specialist, well, as well as musician and chess player in vague times, I seek to improve my skills and knowledge daily.
+##### &nbsp;&nbsp;&nbsp;In this site you can follow what I have done and developed through the program, feel free to contribute here.
 
 ###### *"No one has ever won a game by giving up"* author: GM James Mason
 
