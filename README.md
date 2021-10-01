@@ -1,10 +1,13 @@
 
 ### Hey 👋
 
-### About me :hear_no_evil:
-##### &nbsp;&nbsp;&nbsp;Hello I am Robson Weenden, I am a programming student, I am always looking for new discoveries in the area. I love to study and research and learn about new technologies and solutions for everyday life. 
-##### &nbsp;&nbsp;&nbsp;I want to act as a Java specialist, well, as well as musician and chess player in vague times, I seek to improve my skills and knowledge daily.
-##### &nbsp;&nbsp;&nbsp;In this site you can follow what I have done and developed through the program, feel free to contribute here.
+- 💻 I'm developer
+- 🚀 I'm currently studying the Java and Angular language
+##### CONTACT
+<div>
+  <a href="https://www.linkedin.com/in/robsonweenden/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://t.me/rob_silva"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+</div>
 
 ###### *"No one has ever won a game by giving up"* author: GM James Mason
 
