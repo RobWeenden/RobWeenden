@@ -3,6 +3,7 @@
 
 - 💻 I'm developer
 - 🚀 I'm currently studying the Java and Angular language
+- 👨‍💻 I currently work as Develop Java Full Stack
 ##### CONTACT
 <div>
   <a href="https://www.linkedin.com/in/robsonweenden/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
